@@ -23,7 +23,7 @@ function findModulus(num1, num2) {
     return result;
 }
 //STEP 5
-halfNumber(5);
-squareNumber(3);
-percentOf(2, 4);
-findModulus(4, 10);
+halfNumber(36);
+squareNumber(23);
+percentOf(9, 3);
+findModulus(8, 5);
