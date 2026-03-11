@@ -25,5 +25,5 @@ function findModulus(num1, num2) {
 //STEP 5
 halfNumber(36);
 squareNumber(23);
-percentOf(9, 3);
+percentOf(15, 3);
 findModulus(8, 5);
